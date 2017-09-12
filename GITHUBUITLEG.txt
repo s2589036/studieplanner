@@ -1,0 +1,9 @@
+na iedere grote wijziging:
+
+$ git status 
+
+$ git add FILESDIEJEVERANDERDHEBT
+
+$ git commit -m "UITLEG WAT JE GEDAAN HEBT"
+
+$ git push -u origin master

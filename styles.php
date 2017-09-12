@@ -1,8 +1,8 @@
-body{
-	background-color: #b2c1c5;
-}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-
+ <style>
 .button {
     
     border: none;
@@ -28,3 +28,5 @@ body{
 	font-weight: bold;
 }
 
+</style>
+ 
